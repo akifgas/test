@@ -1,0 +1,423 @@
+street;shade;ON;119;338;274;192;77;328;714;262;1
+sneakers;man;wears;238;249;60;262;243;489;52;26;1
+headlight;car;has;479;315;74;98;514;366;23;15;1
+building;sign;ON;118;13;88;182;1;2;218;536;1
+sidewalk;tree trunk;ON;622;234;87;327;77;331;722;266;1
+shirt;man;has;238;249;60;262;241;289;59;101;1
+street;sidewalk;next to;77;331;722;266;358;283;440;233;1
+back;car;has;708;342;91;174;721;339;67;170;1
+glasses;man;has;238;249;60;262;271;268;20;12;1
+sidewalk;parking meter;ON;574;327;32;143;77;331;722;266;1
+sneakers;man;wears;238;249;60;262;243;489;52;26;1
+shoes;man;has;372;264;75;251;391;481;46;34;1
+shirt;man;has;238;249;60;262;241;289;59;101;1
+pants;man;wears;238;249;60;262;245;384;38;118;1
+jacket;man;has;372;264;75;251;356;296;89;97;1
+pants;man;has;372;264;75;251;382;369;54;128;1
+sidewalk;bike;parked on;318;319;28;34;77;331;722;266;1
+sidewalk;bike;parked on;334;319;29;35;77;331;722;266;1
+street;work truck;parked on;521;271;265;185;358;283;440;233;1
+street;car;parked on;708;342;91;174;358;283;440;233;1
+sidewalk;bike;ON;334;319;29;35;343;318;50;189;1
+man;parking meter;behind;574;327;32;143;372;264;75;251;1
+chin;guy;holding;369;264;82;250;399;288;11;9;1
+shirt;man;WEARING;238;249;60;262;241;289;59;101;1
+chin;man;holding;372;264;75;251;399;288;11;9;1
+tree;bikes;near;321;319;40;35;249;0;176;360;1
+shoes;man;WEARING;372;264;75;251;391;481;46;34;1
+tree;bikes;near;321;319;40;35;249;0;176;360;1
+man;shirt;ON;241;289;59;101;238;249;60;262;1
+chin;man;holding;362;264;97;248;399;288;11;9;1
+glasses;man;WEARING;230;251;72;264;271;268;20;12;1
+road;lamp post;along;537;63;41;430;435;295;340;218;1
+shirt;man;IN;238;249;60;262;241;289;59;101;1
+pants;man;WEARING;238;249;60;262;245;384;38;118;1
+street;parking meter;on top of;574;327;32;143;358;283;440;233;1
+street;tree;next to;249;0;176;360;358;283;440;233;1
+glasses;man;WEARING;238;249;60;262;271;268;20;12;1
+man;bikes;behind;321;319;40;35;238;249;60;262;1
+sidewalk;trees;by;190;0;606;557;77;331;722;266;1
+jacket;man;WEARING;372;264;75;251;356;296;89;97;1
+windows;building;with;1;2;218;536;602;4;173;148;1
+backpack;man;wears;324;320;142;255;359;362;72;81;2
+road;car;parked on;239;347;136;126;3;321;372;279;2
+road;tree;next to;0;146;73;223;3;321;372;279;2
+road;tree;next to;58;155;61;201;3;321;372;279;2
+road;tree;next to;110;195;83;163;3;321;372;279;2
+man;crosswalk;in front of;0;492;366;107;324;320;142;255;2
+window;building;has;547;4;251;384;645;60;99;179;2
+window;building;has;547;4;251;384;742;71;57;159;2
+window;building;has;547;4;251;384;644;259;105;114;2
+window;building;has;547;4;251;384;746;259;52;108;2
+window;building;has;547;4;251;384;628;64;26;179;2
+road;car;parked on;346;327;86;76;3;321;372;279;2
+road;sign;next to;230;287;22;67;3;321;372;279;2
+road;tree;along;0;146;73;223;3;321;372;279;2
+road;tree;along;58;155;61;201;3;321;372;279;2
+road;tree;along;110;195;83;163;3;321;372;279;2
+sneakers;man;wears;324;320;142;255;339;533;132;37;2
+backpack;man;carries;324;320;142;255;359;362;72;81;2
+car;bike;next to;415;403;33;69;239;347;136;126;2
+road;car;parked on;239;347;136;126;3;321;372;279;2
+crosswalk;man;at;324;320;142;255;0;492;366;107;2
+road;crosswalk;ON;0;492;366;107;3;321;372;279;2
+"""walk""";walk sign;says;463;141;43;103;471;193;31;15;2
+monitor;keyboard;in front of;168;273;175;48;159;119;149;155;3
+desktop;cpu;under;212;340;88;139;129;233;510;244;3
+drawer;filing cabinet;has;2;269;139;201;48;423;94;42;3
+drawer;filing cabinet;has;2;269;139;201;2;321;128;123;3
+keyboard;mouse;next to;346;296;29;28;168;273;175;48;3
+office phone base;wireless phone;docked in;465;268;38;61;465;277;73;66;3
+desk;cpu;under;212;340;88;139;130;235;506;241;3
+desk;filing cabinet;next to;2;269;139;201;130;235;506;241;3
+monitor;multiple outlet;next to;42;190;89;48;159;119;149;155;3
+plug;multiple outlet;has;42;190;89;48;43;208;26;33;3
+plug;multiple outlet;has;42;190;89;48;66;207;15;21;3
+plug;multiple outlet;has;42;190;89;48;85;200;16;25;3
+plug;multiple outlet;has;42;190;89;48;106;200;17;23;3
+desk;office phone;ON;456;266;98;79;130;235;506;241;3
+monitor;girl;in front of;544;89;94;149;417;63;82;50;3
+keyboard;mouse;next to;346;296;29;28;168;273;175;48;3
+wall;outlet;ON;83;202;17;24;3;6;258;265;3
+wall;outlet;ON;42;207;22;29;3;6;258;265;3
+hair;girl;has;544;89;94;149;585;98;55;109;3
+chain;girl;wears;544;89;94;149;593;166;34;17;3
+desk;pen;ON;405;323;53;16;130;235;506;241;3
+floor;cable;ON;137;408;52;58;110;340;390;139;3
+floor;cable;ON;150;387;84;40;110;340;390;139;3
+outlets;wall;has;3;6;258;265;42;190;89;48;3
+desk;bag;ON;574;270;65;134;130;235;506;241;3
+wall;calendar;ON;417;63;82;50;304;30;217;97;3
+dark hair;woman;has;544;89;94;149;585;98;55;109;3
+white top;woman;has;544;89;94;149;538;174;101;68;3
+dark hair;woman;with;544;89;94;149;585;98;55;109;3
+white t-shirt;woman;with;544;89;94;149;538;174;101;68;3
+cubicles;partition;between;243;81;300;204;125;71;513;402;3
+wall;picture;ON;210;2;61;44;3;6;258;265;3
+desk;telephone;ON;456;266;98;79;130;235;506;241;3
+black hair;woman;with;544;89;94;149;585;98;55;109;3
+phone;pen;next to;405;323;53;16;456;266;98;79;3
+computer;woman;working on;544;89;94;149;413;56;101;57;3
+plugged;cables;are fully;59;211;81;89;42;190;89;48;3
+wall;photos;ON;209;3;341;45;3;2;552;65;3
+white top;woman;wear;544;89;94;149;538;174;101;68;3
+pluged;cables;have been;59;211;81;89;42;190;89;48;3
+handle;drawer;has;2;321;128;123;18;353;81;44;3
+white top;woman;WEARING;544;89;94;149;538;174;101;68;3
+telephone;pen;next to;405;323;53;16;456;266;98;79;3
+floor;cables;ON;59;211;81;89;125;376;141;95;3
+dividing screen;picture;ON;421;105;99;95;243;81;300;204;3
+necklace;girl;WEARING;544;89;94;149;585;169;32;15;3
+grey keys;keyboard;with;168;273;175;48;168;273;175;48;3
+desk;woman;sitting at;544;89;94;149;532;156;52;52;3
+desk;computer tower;under;212;340;88;139;130;235;506;241;3
+table;telephone;ON;456;266;98;79;129;233;510;244;3
+padding;chair;has;387;214;92;157;407;284;72;27;4
+floor;carpet;ON;2;321;629;157;1;290;631;188;4
+couch;pillow;ON;183;222;111;86;105;210;260;172;4
+pillow;teddy bear;against;211;251;52;57;183;222;111;86;4
+pillow;animal;against;211;251;52;57;183;222;111;86;4
+window;table top;near;413;242;227;51;485;4;154;303;4
+frame;futon;has;105;210;260;172;103;274;265;107;4
+table;chair;next to;387;214;92;157;412;238;224;200;4
+patio;door;to;367;0;120;327;360;160;279;187;4
+cloths;doll;has;211;251;52;57;227;272;23;20;4
+couch;lamp;behind;216;62;48;150;105;210;260;172;4
+couch;pillow;ON;183;222;111;86;105;210;260;172;4
+table top;chair;by;387;214;92;157;413;242;227;51;4
+couch;teddy bear;ON;211;251;52;57;105;210;260;172;4
+table;table top;ON;413;242;227;51;412;238;224;200;4
+floor;lamp;ON;216;62;48;150;1;290;631;188;4
+floor;cables;ON;301;448;49;88;2;490;349;108;5
+shelf;books;ON;429;88;370;142;428;82;368;152;5
+floor;cpu;ON;347;453;63;127;2;490;349;108;5
+floor;cables;ON;301;448;49;88;2;490;349;108;5
+computer monitor;printer;near;297;325;93;50;194;278;101;101;5
+shelves;books;ON;429;88;370;142;425;132;372;102;5
+window;railing;outside;49;322;88;103;42;41;91;387;5
+desk;chair;near;144;358;174;240;120;357;317;107;5
+desk;computer monitor;ON;194;278;101;101;120;357;317;107;5
+wall;books;ON;429;88;370;142;389;9;404;519;5
+desk;computer monitor;ON;194;278;101;101;120;357;317;107;5
+desk;fax machine;ON;311;378;92;35;120;357;317;107;5
+desk;keyboard;ON;240;401;116;26;120;357;317;107;5
+wall;cork-board;against;552;430;162;138;389;9;404;519;5
+desk;keyboard;ON;240;401;116;26;120;357;317;107;5
+cork-board;paper;ON;625;468;52;68;552;430;162;138;5
+wall;air conditioner;ON;186;20;180;57;145;3;245;528;5
+wall;shelves;ON;425;132;372;102;389;9;404;519;5
+shelves;books;ON;429;88;370;142;425;132;372;102;5
+computer;room;with;0;2;795;597;347;453;63;127;5
+desk;chairs;before;141;351;408;242;120;357;317;107;5
+wall;shelves;ON;425;132;372;102;389;9;404;519;5
+balcony;railing;ON;49;322;88;103;52;328;81;91;5
+chair;clothes;ON;380;430;148;167;377;348;166;251;5
+floor;heater;ON;421;529;113;69;2;490;349;108;5
+wall;chair;against;144;358;174;240;389;9;404;519;5
+wall;air conditioner;ON;186;20;180;57;145;3;245;528;5
+wall;chair;against;377;348;166;251;389;9;404;519;5
+counter;apple;ON;253;75;60;47;245;14;68;114;6
+lid;sports bottle;has;487;75;104;90;685;331;113;265;6
+glass;milk;IN;253;75;60;47;245;14;68;114;6
+milk;glass;has;245;14;68;114;253;75;60;47;6
+water bottle;top;ON;487;75;104;90;476;77;122;307;6
+top;water bottle;has;476;77;122;307;487;75;104;90;6
+handle;drawer;has;685;331;113;265;747;485;29;26;6
+plate;fork;ON;111;137;56;73;38;102;238;117;6
+liquid;glass;has;245;14;68;114;255;76;57;51;6
+glass;liquid;IN;255;76;57;51;245;14;68;114;6
+counter;bar stool;next to;0;2;300;521;2;11;797;520;6
+counter;bar stool;against;0;2;300;521;2;11;797;520;6
+milk;glass;has;245;14;68;114;253;75;60;47;6
+milk;glass;has;245;14;68;114;253;75;60;47;6
+glass;milk;IN;253;75;60;47;245;14;68;114;6
+table;bag;ON;629;101;144;158;2;11;797;520;6
+counter;bowl;ON;394;2;212;126;2;11;797;520;6
+counter;bowl;ON;599;73;187;116;2;11;797;520;6
+counter;pan;ON;676;22;122;76;2;11;797;520;6
+bag;food;IN;353;102;117;78;349;48;133;134;6
+counter;bag;ON;349;48;133;134;2;11;797;520;6
+bag;food;IN;353;102;117;78;349;48;133;134;6
+counter;glass;ON;275;0;54;78;2;11;797;520;6
+counter;glass;ON;245;14;68;114;2;11;797;520;6
+counter;glass;ON;192;0;59;98;2;11;797;520;6
+counter;apple;ON;339;233;126;119;2;11;797;520;6
+milk;glass;OF;245;14;68;114;253;75;60;47;6
+bag;food;IN;353;102;117;78;349;48;133;134;6
+bowl;bag;rests on;629;101;144;158;599;73;187;116;6
+counter;apple;ON;339;233;126;119;2;11;797;520;6
+plate;fork;ON;111;137;56;73;38;102;238;117;6
+cover;container;with;599;73;187;116;600;56;147;46;6
+counter;glass;ON;275;0;54;78;2;11;797;520;6
+counter;glass;ON;192;0;59;98;2;11;797;520;6
+plate;fork;ON;111;137;56;73;38;102;238;117;6
+milk;glass;contains;245;14;68;114;253;75;60;47;6
+glass;milk;IN;253;75;60;47;245;14;68;114;6
+counter;apple;ON;339;233;126;119;2;11;797;520;6
+plate;fork;ON;111;137;56;73;38;102;238;117;6
+container;bag;next to;629;101;144;158;599;73;187;116;6
+counter;leg;under;7;268;55;130;2;11;797;520;6
+leg;chair;has;0;2;300;521;138;311;83;203;6
+leg;chair;has;0;2;300;521;7;268;55;130;6
+plate;crumb;ON;209;154;8;11;38;102;238;117;6
+plate;crumb;ON;85;175;20;14;38;102;238;117;6
+logo;bottle;has;476;77;122;307;484;256;108;112;6
+milk;glass;OF;245;14;68;114;253;75;60;47;6
+food;bag;OF;349;48;133;134;353;102;117;78;6
+desk;book;ON;721;527;50;56;583;515;213;77;7
+desk;juice bottle;ON;193;354;36;58;56;398;559;110;7
+monitor;sticky note;ON;266;361;34;26;222;255;170;130;7
+hair;lady;with;6;316;144;268;5;320;28;49;7
+writing;white board;has;3;34;278;207;20;65;99;164;7
+desk;telephone;ON;525;393;85;65;56;398;559;110;7
+desk;headphones;ON;263;424;66;32;56;398;559;110;7
+monitor;lady;looking at;6;316;144;268;222;255;170;130;7
+pants;woman;WEARING;6;309;256;287;97;549;73;44;7
+board;papers;next to;69;357;99;45;3;34;278;207;7
+floor;cpu;ON;369;549;72;47;184;526;257;73;7
+book;pen;atop;119;436;35;12;92;421;90;38;7
+desk;mouse;ON;409;428;39;17;56;398;559;110;7
+wall;white board;ON;3;34;278;207;1;4;281;373;7
+wrist;bracelet;ON;190;534;10;17;174;529;34;29;7
+keyboard;wrist pad;ON;231;413;150;13;243;392;143;37;7
+mousepad;mouse;on top of;409;428;39;17;379;428;77;25;7
+headphones;cd player;has;179;408;49;24;263;424;66;32;7
+desk;cereal;on top of;459;326;46;77;56;398;559;110;7
+book;pen;on top of;119;436;35;12;92;421;90;38;7
+earring;woman;WEARING;6;309;256;287;15;384;13;22;7
+desk;water bottle;on top of;479;361;28;70;56;398;559;110;7
+desk;cables;under;385;477;36;88;56;398;559;110;7
+mousepad;mouse;on top of;409;428;39;17;379;428;77;25;7
+keyboard;monitor;next to;222;255;170;130;243;392;143;37;7
+writing;white board;has;3;34;278;207;20;65;99;164;7
+desk;mug;on top of;456;388;26;38;56;398;559;110;7
+lid;laptop;has;589;481;178;83;586;481;184;73;7
+lid;juice bottle;has;193;354;36;58;202;356;15;10;7
+sweater;woman;WEARING;6;309;256;287;2;407;196;183;7
+desk;headphones;on top of;263;424;66;32;56;398;559;110;7
+desk;water bottle;on top of;479;361;28;70;56;398;559;110;7
+telephone;mug;next to;456;388;26;38;525;393;85;65;7
+desk;juice bottle;on top of;193;354;36;58;56;398;559;110;7
+desk;laptop;on top of;589;481;178;83;583;515;213;77;7
+desk;headphones;on top of;263;424;66;32;56;398;559;110;7
+desk;tape dispenser;sitting on;555;450;46;45;56;398;559;110;7
+blue jeans;woman;has;6;309;256;287;87;530;225;69;7
+sweater;woman;has;6;309;256;287;2;407;196;183;7
+desk;woman;sitting at;6;309;256;287;56;398;559;110;7
+monitor;sticky note;taped to;266;361;34;26;222;255;170;130;7
+chair;woman;sitting in;6;309;256;287;1;550;300;49;7
+label;water bottle;has;479;361;28;70;484;380;21;22;7
+telephone;mug;next to;456;388;26;38;525;393;85;65;7
+water bottle;cereal;behind;459;326;46;77;479;361;28;70;7
+book;calculator;on top of;484;431;49;39;419;418;170;98;7
+desk;tape dispenser;on top of;555;450;46;45;56;398;559;110;7
+desk;cables;running under;385;477;36;88;56;398;559;110;7
+desk;pen;on top of;119;436;35;12;56;398;559;110;7
+desk;headphones;on top of;263;424;66;32;56;398;559;110;7
+writing;white board;has;3;34;278;207;20;65;99;164;7
+desk;mouse;on top of;409;428;39;17;56;398;559;110;7
+sweater;woman;has;6;309;256;287;2;407;196;183;7
+desk;telephone;on top of;525;393;85;65;56;398;559;110;7
+monitor;juice bottle;next to;193;354;36;58;222;255;170;130;7
+sleeves;man;has;117;286;266;312;222;384;117;96;8
+desk;cd;ON;666;550;74;42;580;402;219;191;8
+desk;cup;ON;446;398;51;75;27;329;544;267;8
+keyboard;hand;ON;334;400;48;47;282;383;155;64;8
+desk;cup;ON;446;398;51;75;27;329;544;267;8
+glasses;man;has;117;286;266;312;232;322;28;26;8
+shirt;man;wears;117;286;266;312;115;375;230;225;8
+cpu;dish;ON;171;254;40;31;126;271;113;131;8
+wall;picture;ON;699;135;97;73;596;0;203;434;8
+computer;container;ON;171;254;40;31;126;271;113;131;8
+glasses;boy;has;117;286;266;312;232;322;28;26;8
+computer;boy;at;117;286;266;312;126;271;113;131;8
+desk;stapler;ON;520;444;22;35;27;329;544;267;8
+papers;bag;ON;704;288;81;27;672;285;127;46;8
+wall;photograph;ON;699;135;97;73;596;0;203;434;8
+desk;drawer;OF;364;495;148;89;27;329;544;267;8
+shelf;cup;ON;142;167;26;52;0;215;207;36;8
+mug;stapler;near;520;444;22;35;446;398;51;75;8
+mug;cd;near;666;550;74;42;719;472;44;58;8
+front;cd;IN;666;550;74;42;602;536;196;63;8
+wall;picture;tape to;699;135;97;73;596;0;203;434;8
+papers;bulletin board;with;588;300;193;182;585;315;177;129;8
+desk;files;ON;666;290;66;15;580;402;219;191;8
+desk;papers;ON;672;285;127;46;580;402;219;191;8
+chin;man;holding;117;286;266;312;229;360;29;23;8
+computer;man;looking at;117;286;266;312;297;270;126;123;8
+papers;folder;has;459;315;91;142;474;337;60;60;8
+cpu;dish;on top of;171;254;40;31;126;271;113;131;8
+keyboard;hand;ON;334;400;48;47;282;383;155;64;8
+hand;man;has;117;286;266;312;334;400;48;47;8
+wall;picture;fixed to;699;135;97;73;596;0;203;434;8
+shelf;books;ON;2;32;160;93;0;215;207;36;8
+glasses;guy;WEARING;117;286;266;312;232;322;28;26;8
+keyboard;mouse;next to;421;426;35;29;282;383;155;64;8
+desk;mouse;ON;421;426;35;29;27;329;544;267;8
+keyboard;hand;ON;334;400;48;47;282;383;155;64;8
+hand;guy;has;117;286;266;312;334;400;48;47;8
+desk;cup;ON;446;398;51;75;27;329;544;267;8
+desk;cd;IN;666;550;74;42;580;402;219;191;8
+glasses;man;has;117;286;266;312;232;322;28;26;8
+cpu;dish;on top of;171;254;40;31;126;271;113;131;8
+shelf;book;ON;86;154;58;64;0;215;207;36;8
+drawer;cd;on top of;666;550;74;42;594;554;189;45;8
+books;cpu;has;126;271;113;131;2;32;160;93;8
+glasses;man;WEARING;117;286;266;312;232;322;28;26;8
+holder;papers;ON;474;337;60;60;459;315;91;142;8
+sleeves;man;has;117;286;266;312;222;384;117;96;8
+pants;man;WEARING;117;286;266;312;208;510;158;89;8
+shirt;man;has;117;286;266;312;115;375;230;225;8
+cpu;dish;on top of;171;254;40;31;126;271;113;131;8
+desk;stapler;ON;520;444;22;35;27;329;544;267;8
+computer;keyboard;OF;282;383;155;64;126;271;113;131;8
+books;shelves;OF;3;2;227;261;2;32;160;93;8
+lights;room;has;4;1;635;477;209;7;331;88;9
+desk;mouse pad;ON;55;415;89;39;5;387;162;92;9
+desk;bottle;ON;126;281;24;39;71;280;169;65;9
+outside;windows;show;351;81;286;173;570;93;69;151;9
+window;blinds;ON;346;84;91;143;354;83;92;157;9
+wall;posters;ON;69;339;100;85;26;323;156;148;9
+desk;monitor;ON;286;210;65;59;261;260;178;93;9
+books;shelves;hold;168;138;97;225;197;216;59;43;9
+desk;keyboard;ON;542;277;50;18;503;241;135;60;9
+room;lights;IN;415;9;99;40;4;1;635;477;9
+room;lights;IN;212;26;87;33;4;1;635;477;9
+floor;bin;ON;425;297;36;52;6;286;634;194;9
+bookshelf;baby;ON;236;120;27;38;168;138;97;225;9
+bottle;monitor;by;96;221;106;76;126;281;24;39;9
+desk;computer;ON;543;243;54;50;503;241;135;60;9
+wall;cork-board;ON;22;135;66;104;26;323;156;148;9
+floor;tower;ON;253;277;56;74;6;286;634;194;9
+wall;shelves;against;168;138;97;225;26;323;156;148;9
+desk;keyboard;ON;542;277;50;18;503;241;135;60;9
+wall;corkboard;ON;22;135;66;104;26;323;156;148;9
+desk;bottle;ON;126;281;24;39;71;280;169;65;9
+desk;bin;next to;425;297;36;52;251;247;184;42;9
+desk;tower;under;253;277;56;74;251;247;184;42;9
+room;lights;IN;209;7;331;88;4;1;635;477;9
+shelves;books;ON;197;216;59;43;168;138;97;225;9
+floor;cables;ON;298;286;128;59;6;286;634;194;9
+desk;book;ON;410;382;80;43;388;367;250;112;9
+floor;cables;ON;298;286;128;59;6;286;634;194;9
+room;lights;IN;209;7;331;88;4;1;635;477;9
+floor;bin;ON;425;297;36;52;6;286;634;194;9
+desk;computer;ON;543;243;54;50;503;241;135;60;9
+wall;shelves;against;168;138;97;225;26;323;156;148;9
+papers;book;with;410;382;80;43;427;372;68;40;9
+wheels;chair;with;153;284;101;146;231;408;14;16;9
+shelves;tube;ON;151;131;87;17;168;138;97;225;9
+desk;book;ON;410;382;80;43;388;367;250;112;9
+desk;computer;ON;543;243;54;50;503;241;135;60;9
+floor;tower;ON;253;277;56;74;6;286;634;194;9
+shelves;baby;ON;236;120;27;38;168;138;97;225;9
+wall;corkboard;ON;22;135;66;104;26;323;156;148;9
+desk;headphones;ON;22;488;99;48;0;368;472;231;10
+cable;charger;ON;231;543;23;28;161;562;77;18;10
+floor;cpu;ON;354;435;97;126;77;472;721;126;10
+floor;cpu;ON;422;436;89;122;77;472;721;126;10
+coat;man;has;576;270;128;149;532;354;146;216;10
+floor;coat;touching;532;354;146;216;77;472;721;126;10
+table;headphones;ON;22;488;99;48;0;368;472;231;10
+wall;board;ON;142;142;105;145;3;2;796;530;10
+chair;jacket;ON;532;354;146;216;558;352;157;203;10
+back;chair;has;558;352;157;203;558;352;116;140;10
+floor;computer tower;ON;354;435;97;126;77;472;721;126;10
+floor;computer tower;ON;422;436;89;122;77;472;721;126;10
+wall;bookshelf;against;423;151;174;358;3;2;796;530;10
+shelf;papers;below;460;357;96;41;459;327;127;18;10
+shelf;papers;ON;460;357;96;41;460;387;103;16;10
+shelf;papers;below;456;401;95;51;460;387;103;16;10
+shelf;papers;ON;456;401;95;51;486;439;58;18;10
+shelf;papers;below;504;450;45;32;486;439;58;18;10
+shelf;papers;ON;504;450;45;32;510;471;58;37;10
+table;cup;ON;57;441;36;41;0;368;472;231;10
+desk;papers;ON;0;381;314;162;0;368;472;231;10
+jacket;man;has;576;270;128;149;532;354;146;216;10
+floor;jacket;touches;532;354;146;216;77;472;721;126;10
+sleeve;man;has;22;488;99;48;0;368;472;231;10
+desk;wires;under;231;543;23;28;161;562;77;18;10
+extension;charger;ON;354;435;97;126;77;472;721;126;10
+man;jacket;near;422;436;89;122;22;488;99;48;10
+desk;water bottle;ON;576;270;128;149;161;562;77;18;10
+shelf;books;ON;22;488;99;48;0;368;472;231;10
+wall;picture frame;ON;142;142;105;145;3;2;796;530;10
+books;shelf;has;459;327;127;18;462;273;127;67;10
+floor;cpu;ON;422;436;89;122;77;472;721;126;10
+floor;cpu;ON;354;435;97;126;77;472;721;126;10
+chair;coat;ON;532;354;146;216;558;352;157;203;10
+bookshelf;ostirch;on top of;579;122;25;62;423;151;174;358;10
+computer;bottle;sit by;267;372;21;41;280;277;147;140;10
+desk;headphones;sit on;22;488;99;48;0;368;472;231;10
+desk;man;sitting at;576;270;128;149;609;315;190;101;10
+computer;man;using;576;270;128;149;649;278;105;119;10
+chair;coat;ON;532;354;146;216;558;352;157;203;10
+shirt;man;wears;576;270;128;149;586;306;115;105;10
+desk;headphones;ON;22;488;99;48;0;368;472;231;10
+chair;coat;ON;532;354;146;216;558;352;157;203;10
+wall;bookshelf;against;423;151;174;358;3;2;796;530;10
+desk;cup;ON;57;441;36;41;0;368;472;231;10
+desk;monitor;ON;647;282;107;97;609;315;190;101;10
+wall;picture frame;against;142;142;105;145;3;2;796;530;10
+computer;man;using;576;270;128;149;649;278;105;119;10
+chair;coat;on back of;532;354;146;216;558;352;157;203;10
+desk;headphones;sitting on;22;488;99;48;0;368;472;231;10
+keyboard;computer;has;280;277;147;140;305;386;130;35;10
+bookshelf;ostrich;perched on;581;125;24;64;423;151;174;358;10
+desk;cup;ON;57;441;36;41;0;368;472;231;10
+floor;outlet;ON;217;548;65;36;77;472;721;126;10
+desk;papers;sitting on;0;381;314;162;0;368;472;231;10
+bookshelf;books;ON;462;273;127;67;423;151;174;358;10
+computer;man;looking at;576;270;128;149;649;278;105;119;10
+table;headphones;ON;22;488;99;48;2;395;200;204;10
+desk;papers;lying on;0;381;314;162;0;368;472;231;10
+floor;cable;ON;161;562;77;18;77;472;721;126;10
+desk;cup;ON;57;441;36;41;0;368;472;231;10
+screen;panes;ON;316;308;61;32;314;295;86;73;10
+screen;monitor;has;278;280;129;113;314;295;86;73;10
+shirt;man;WEARING;576;270;128;149;586;306;115;105;10
+wall;picture frame;ON;142;142;105;145;3;2;796;530;10
+bookshelf;ostirch;ON;579;122;25;62;423;151;174;358;10
+wall;corkboard;hanging on;158;157;81;117;3;2;796;530;10
+floor;outlet;ON;217;548;65;36;77;472;721;126;10
+shelf;books;ON;462;273;127;67;459;327;127;18;10
