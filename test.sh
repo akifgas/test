@@ -1,12 +1,12 @@
 #!/bin/bash
-#SBATCH -J tik4             
+#SBATCH -J test             
 #SBATCH -A agasi             
-#SBATCH -o tik4.out    
+#SBATCH -o test.out    
 #SBATCH -p debug          
 #SBATCH -N 1              
 #SBATCH -n 1              
-#SBATCH --gres=gpu:4            
-#SBATCH --cpus-per-task=40       
+#SBATCH --gres=gpu:1            
+#SBATCH --cpus-per-task=10       
 #SBATCH --time=00:15:00      
 
 module purge 
